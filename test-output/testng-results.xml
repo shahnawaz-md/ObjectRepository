@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77749" started-at="2016-01-08T09:59:22Z" finished-at="2016-01-08T10:00:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77749" started-at="2016-01-08T09:59:22Z" finished-at="2016-01-08T10:00:40Z">
+      <class name="automationFramework.PageObjectModel">
+        <test-method status="PASS" signature="browser()[pri:0, instance:automationFramework.PageObjectModel@2810ba97]" name="browser" is-config="true" duration-ms="55968" started-at="2016-01-08T15:29:22Z" finished-at="2016-01-08T15:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:automationFramework.PageObjectModel@2810ba97]" name="login" duration-ms="16167" started-at="2016-01-08T15:30:18Z" finished-at="2016-01-08T15:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.PageObjectModel@2810ba97]" name="tearDown" is-config="true" duration-ms="5602" started-at="2016-01-08T15:30:34Z" finished-at="2016-01-08T15:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automationFramework.PageObjectModel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
